@@ -2,5 +2,5 @@
 Repository for csd-380 course and work submissions
 # “CSD 380 The history of DevOps”
 ## Contributors
--+ Professor Nathan Braun
--+ Chanceller Waters
+- Professor Nathan Braun
+ - Chanceller Waters
